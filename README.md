@@ -3,7 +3,7 @@
  I have started training my python skills on Codewars.
 
  I'm currently ranked 6 kyu.
- https://www.codewars.com/users/bmonika/badges/large
+ https://www.codewars.com/users/bmonika
  
 # Ranking scheme
  8 - 7 kyu : Beginner
